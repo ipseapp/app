@@ -1,0 +1,16 @@
+{
+    "versionlist":[
+        {
+            "version":"0.0.42",
+            "changes":[
+               "1. 更新下载地址"
+            ],
+            "changesEn":[
+               "1. Update download address"
+            ], 
+            "url":"https://cdn.jsdelivr.net/gh/ipseapp/app/ipse.apk"
+        }
+        
+        
+    ]
+}
